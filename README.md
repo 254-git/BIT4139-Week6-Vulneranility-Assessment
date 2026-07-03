@@ -47,10 +47,10 @@ Through these practical activities, I developed practical skills in identifying,
 
 
 ## Author
-**Name:** Precious Mumbe John
-**Institution:** Mount Kenya University
-**Unit:** Ethical Hacking
-**Unit Code:** BIT4139
+**Name:** Precious Mumbe John.<br>
+**Institution:** Mount Kenya University.<br>
+**Unit:** Ethical Hacking.<br>
+**Unit Code:** BIT4139.<br>
 
  
 
