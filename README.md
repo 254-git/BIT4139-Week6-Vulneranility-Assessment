@@ -52,6 +52,6 @@ Institution: Mount Kenya University
 Unit: Ethical Hacking
 Unit Code: BIT4139
 
-**Name:** Precious John  
+ 
 **Course Unit:** BIT4139 – Ethical Hacking  
 **Institution:** Mount Kenya University
