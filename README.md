@@ -53,5 +53,4 @@ Unit: Ethical Hacking
 Unit Code: BIT4139
 
  
-**Course Unit:** BIT4139 – Ethical Hacking  
-**Institution:** Mount Kenya University
+
